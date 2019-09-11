@@ -1,0 +1,13 @@
+everything must be one shape
+file menu
+export
+what format? rapid prototype file
+pick the part
+click the folder
+select the very first option sla001
+hit arrow on positioning and hit origin
+name it first ini last name jmargeson.stl
+hit ok
+computer>c:>NXIdeas>(part name)
+drag it to the desktop
+go to schoology and upload the file over google drive
